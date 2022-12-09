@@ -1,0 +1,6 @@
+
+public interface DimensaoVolumetrica { //TUDO QUE ESTA DENTRO DE UMA INTERFACE NAO É REAL, E TUDO QUE ESTÁ AQUI É PUBLICO E ABSTRATO.
+
+	double volume(); //METODO DENTRO DA INTERFAZE NAO TEM CORPO.
+	
+}
