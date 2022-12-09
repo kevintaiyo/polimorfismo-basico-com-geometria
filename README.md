@@ -1,4 +1,4 @@
-#Uma lição fictícia passada pelo professor para treinar um pouco de polimorfismo JAVA.
+#Uma lição passada pelo professor para treinar um pouco de polimorfismo JAVA.
 
 FIGURAS GEOMÉTRICAS
 
